@@ -1,1 +1,2 @@
 Task 1: github ssh connected
+Task 2: explored folder tree
